@@ -8,8 +8,6 @@ This repository contains Risc V 32 bit single cycle data path simulated on Logis
 
 To simulate, follow these steps:
 
-### Custom Instructions:
-
 * Open [Venus](https://www.kvakil.me/venus/).
 * Write your customised instructions and click on dump to get the hex code.
 * Create a .txt file (say "x.txt")
@@ -17,13 +15,8 @@ To simulate, follow these steps:
 * Clone this repository and open  [Combined.circ]( https://github.com/Agha-Muqarib/RV32-Single-Cycle-Datapath-Logism/blob/main/Combined.circ).
 * Load x.txt into Instructions Memory and simulate.
 
-### Test Instructions:
+## Supported Instructions:
 
-* Create a .txt file (say "x.txt")
-* #### Instructions:
-* Copy the following instructions in exact same format:
-  
+Given below is the supported instruction set for RV32I except privilege instructions.
 
-* Clone this repository and open  [Combined.circ]( https://github.com/Agha-Muqarib/RV32-Single-Cycle-Datapath-Logism/blob/main/Combined.circ).
-* Load x.txt into Instructions Memory and simulate.
-
+![Ibstruction Set](https://github.com/Agha-Muqarib/RV32-Single-Cycle-Datapath-Logism/blob/main/Images/instructionRV32I.png)
