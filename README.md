@@ -14,4 +14,4 @@ To simulate, follow these steps:
 * Write your customised instructions and click on dump to get the hex code.
 * Create a .txt file (say "x.txt")
 * Copy the hex code from venus into "x.txt" and save it.
-* Clone this repository and open  [Combined.circ]( https://www.kvakil.me/venus/)"Combined.circ"
+* Clone this repository and open  [Combined.circ]( https://github.com/Agha-Muqarib/RV32-Single-Cycle-Datapath-Logism/blob/main/Combined.circ).
