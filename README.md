@@ -2,7 +2,7 @@
 
 This repository contains Risc V 32 bit single cycle data path simulated on Logism upon loading instructions.
 
-![Image to Circuit](https://github.com/Agha-Muqarib/RV32-Single-Cycle-Datapath-Logism/blob/main/Risc%20V%2032%20Bit%20SIngle%20Cycle%20Datapath.jpg)
+![Image to Circuit](https://github.com/Agha-Muqarib/RV32-Single-Cycle-Datapath-Logism/blob/main/Images/Risc%20V%2032%20Bit%20SIngle%20Cycle%20Datapath.jpg)
 
 ## Instructions
 
