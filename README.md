@@ -15,3 +15,15 @@ To simulate, follow these steps:
 * Create a .txt file (say "x.txt")
 * Copy the hex code from venus into "x.txt" and save it.
 * Clone this repository and open  [Combined.circ]( https://github.com/Agha-Muqarib/RV32-Single-Cycle-Datapath-Logism/blob/main/Combined.circ).
+* Load x.txt into Instructions Memory and simulate.
+
+### Test Instructions:
+
+* Create a .txt file (say "x.txt")
+* #### Instructions:
+* Copy the following instructions in exact same format:
+  
+
+* Clone this repository and open  [Combined.circ]( https://github.com/Agha-Muqarib/RV32-Single-Cycle-Datapath-Logism/blob/main/Combined.circ).
+* Load x.txt into Instructions Memory and simulate.
+
